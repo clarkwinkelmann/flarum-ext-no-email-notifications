@@ -20,7 +20,8 @@
         }
     ],
     "support": {
-        "source": "https://github.com/clarkwinkelmann/flarum-ext-no-email-notifications"
+        "source": "https://github.com/clarkwinkelmann/flarum-ext-no-email-notifications",
+        "forum": "https://discuss.flarum.org/d/30634"
     },
     "autoload": {
         "psr-4": {
